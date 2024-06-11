@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeartisan&label=Profile%20views&color=0e75b6&style=flat" alt="joeartisan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeartisan" alt="joeartisan" /></a> </p>
-
 - 🔭 I’m currently working on [Costa Rica Property VIP](https://www.costaricaproperty.vip)
 
 - 🌱 I’m currently learning **Laravel, Docker, Spring, .NET**
